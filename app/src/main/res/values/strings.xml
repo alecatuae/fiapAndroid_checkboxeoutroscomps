@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">checkboxeoutroscomps</string>
+    <string name="facio">Facio</string>
+    <string name="medio">Médio</string>
+    <string name="dificil">Difícil</string>
+    <string name="ok">OK</string>
+</resources>
